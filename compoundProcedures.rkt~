@@ -1,0 +1,7 @@
+#lang planet neil/sicp
+
+(define (square x) (* x x))
+(square 21)
+(square (+ 2 5))
+
+
