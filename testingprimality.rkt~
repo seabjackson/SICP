@@ -11,3 +11,4 @@
 ;; test whether number is prime as follows
 (define (prime? n)
   (= n (smallest-divisor n)))
+
